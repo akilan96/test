@@ -1,2 +1,1 @@
-git config --global user.email "mailtoakil4@gmail.com"
-  git config --global user.name "akilan96"
+Kabilan new
